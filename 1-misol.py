@@ -1,6 +1,6 @@
 import os
 os.system("cls")
-f = open("Users_info.txt", "r+")
+f = open("Users_info.txt", "a+")
 
 name = input()
 lastname = input()
